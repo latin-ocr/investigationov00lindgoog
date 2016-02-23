@@ -1,0 +1,56 @@
+25
+
+43¹‘ ascendere possit Ad methodum illam indagandam qnod attinet, diversam
+eam asse debere puto, prout hic vel alius calculi finis propositus sit. Quem iu
+aberrationis calculo modum nos secuti simus, breviter explicabimus. Ι
+
+1. si magnus adest locorum geocentricorum observatorum numerus, undo
+diurnus motus planetae exacte consequitur, procul dubio aberratio facillime ob·
+ametur, illum et planetae a terra distantiam in usum vocando. Designamus
+motum geocentricum planetae in minutis secundis expressum per m, distantiam
+aterra per D‘, erit
+
+Aberratio = log. m 4- log.D -1- log. 7,7565094.
+
+(Lanterna Astronomie 2335). ¹
+
+Quando deloco observato in verum convertendo sermo est, haec'aberratio
+applicanda est curn signo -t- si motus directus, - si retrogradus. Huic me·
+thodo tabula XXVIII inservit, quaecum argumento ” Commutatio'⁸ atatim
+logarithmum distantiae planetae a terra praebet. Sit D, r, C muntia curtata ’
+planetae a sole, distantia solis a terra, et angulus commutationis, erit
+
+n‘=((1]² «Ι- r² - aDr. cos. C)
+
+ex qua formula tabula XXVIII computata est Hoc modo, loco distantiae var
+
+rae non nisi curtatum obtineri, nullius plane momenti in calculo aberratio·
+nis est.
+
+' D. constans ς 0,72333, pro r vero successive o,933a1, 1‚ooooo, et
+
+1‚01679 supposuimus. Invento valore r ex ephemeridibus, facilc in’telligitrm
+
+ex qua columna petenda sit quantitas D‘.
+
+11. si modo de comparando loco observato cum tabulari sermo est, con·
+sultum esse videtur, methodum ab Ill. Dosaroun propositam, quae sane in
+immerita oblivione jacet, in usum vocare, qua observationis momentum ab ef·
+fectu aberrationis liberetur. Sit tempus apparens observationis z: M, habebi.
+tur tempus verum ab aberrationis effectu liberatum
+
+= M - θ’ 12‚‘¹a. D‘.
+
+Jam si pro hoc momento locus planetae atabulis calculatur, quasvis alia
+aberrationis applicatio prorsus negligenda est
+
+E Tabula XXIX cum argumento ” Commutatio” correctio temporis sinc
+ulla difficultate invenitur.
+
+ΙΙΙ. Quando observationes singulae et inter se dissitae reducendae sunt,
+tabula XXX in usum vocanda est, quae cum argumento ’'mengono'' ipsam
+
+g
+
+ 
+

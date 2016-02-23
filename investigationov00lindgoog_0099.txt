@@ -1,0 +1,60 @@
+5
+
+Tempora observationum adw Meridianum Paris. reducta sunt.
+
+Annus et Dies [ω’ξῗὰἓίῗῑ {¹3¹³ 'b Nomen Observatorum
+
+-t-—n-n-
+
+1639 Decbr. 4 δὴ 10¹ ²9„ 2⁸ η’ 31' 18⁶ Honoccnn
+
+1751 Octbr. 3¹ rt 33 31 ι 8 ι3 29 Brauter
+
+1733 Iun. 8 1 ¹3 28 Β 17 45 6,7 Banntnr
+
+1796 Aug· 5 4 18 ιι ιο 13 49 26 Ztcu
+
+1802 Decbr. 31 3 34 34 3 9 19 54 Lamnus
+
+1804 Aug. 3 ιο 18 45 ιο ιι 39 3η LanauneetCaattur
+1806 Mara 14 8 56 3 5 ²3 37 14,8 Turesutcnea
+
+Honoccn observationem, quae inprimis ad linem propositam facere mihi
+videretur, de novo ad calculum revocavi, et novissimis elementis adhibitis,
+longitudinem heliocentricam hic allatam e tribus observationibus, in Fencuso·
+1v11 Astronomin propositis, elicui. Sic ex harum observationum combinatione
+decuplici, et minimorum quadratorum methodo adhibita, inveni quae sequuntur:
+
+revolutio tropica ²²4⁰ 1⁶¹¹ μ’ 25⁶,847.
+motus diurnus tropicus 1⁶ 36' 7',8074.
+revolutio siderea 2²4⁰ 16· 49' 7', 987.
+
+motueaunuus 7⁸ ι4· 43’ 292688.
+mot. 100. annor. Julian. 6· 19⁰ η’ 44’,ος.
+
+atque exinde
+semi-axis major: ο, 7233316·
+
+Observatiomun numerus una cum magna annorum quam comprehendunt
+serie, in elementis inde deductis fiduciam ponere me jubebat 3 cui spei correctio·
+nes epocharum pro a. 1750 et 1303 postea inventae abunde satisfecerunt. Non
+incongrua hinc erat ratiocinatio, motum medium et semi axin exactissime esse
+determinatos eorumque 'errores plane evanescere, ita ut incognitarum in aequa·
+tionesconditionis recipiendarum numerus jam ad quinque redactus sit. Ambo·
+rum elementorum hic detemtinatorum eliminatione facta, locus heliocentricus in
+eclipticatuncsolum functio erit epochae, pe1ihelii, nodi, inclinationis et ex·
+centricitatis. Hinc aequationes conditionis sequentem pariturae erunt formam:
+
+m Ξ Ax -ι- By -t-Cr -t-Du -t-Eq
+m‘ z A'x-t- B'ye-C‘z-t-D'u-t-E'q
+
+in quibus m, m‘ correctiones tabularum in heliocentrica longitudine et latitu- ⁴
+dine, Α, Β, C, D, Ε notos coefficientes et x, y, z, n, q correctiones quinque
+elementortun designant. Modica vero orbitae Veneris inclinatio methodum ad·
+ministrat, non solum aequationes has per separationem incognitarum notabiliter.
+contrahere, sed etiarn aptiores ad calculum numericam reddere, ita ut longitudo
+
+b
+
+ 
+

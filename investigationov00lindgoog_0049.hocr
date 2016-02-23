@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./investigationov00lindgoog/investigationov00lindgoog_0049.png"; bbox 0 0 4514 6300; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 268 1813 1934 2025">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 268 1813 1934 2025">
+     <span class='ocr_line' id='line_1_1' title="bbox 268 1813 1934 2025; baseline 0.004 -40"><span class='ocrx_word' id='word_1_1' title='bbox 268 1813 1934 2025; x_wconf 24' lang='lat' dir='ltr'><strong>,TABULAEMERCURII</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 763 2180 1558 2254">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 763 2180 1558 2254">
+     <span class='ocr_line' id='line_1_2' title="bbox 763 2180 1558 2254; baseline -0.001 -3"><span class='ocrx_word' id='word_1_2' title='bbox 763 2180 991 2254; x_wconf 80' lang='lat' dir='ltr'><strong>NOVAE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1029 2186 1109 2252; x_wconf 87' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1150 2180 1558 2253; x_wconf 81' lang='lat' dir='ltr'><strong>CORRECTAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 611 2782 1704 2881">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 611 2782 1704 2881">
+     <span class='ocr_line' id='line_1_3' title="bbox 611 2782 1704 2881; baseline 0 -3"><span class='ocrx_word' id='word_1_5' title='bbox 611 2782 1060 2879; x_wconf 82' lang='lat' dir='ltr'><strong>THEORIA</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1111 2782 1704 2881; x_wconf 84' lang='lat' dir='ltr'><strong>GRAVITATIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 811 3019 1484 3157">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 811 3019 1484 3201">
+     <span class='ocr_line' id='line_1_4' title="bbox 811 3019 1484 3157; baseline 0.006 -4"><span class='ocrx_word' id='word_1_7' title='bbox 811 3019 1055 3155; x_wconf 28' lang='lat' dir='ltr'>¹1LLus‘rR.</span> <span class='ocrx_word' id='word_1_8' title='bbox 1086 3098 1152 3156; x_wconf 81' lang='lat' dir='ltr'><strong>m:</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1182 3099 1244 3154; x_wconf 80' lang='lat' dir='ltr'><strong>LA</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1273 3070 1484 3157; x_wconf 87' lang='lat' dir='ltr'><strong>PLACE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 518 3500 1800 3568">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 518 3500 1800 3568">
+     <span class='ocr_line' id='line_1_5' title="bbox 518 3500 1800 3568; baseline -0.002 -2"><span class='ocrx_word' id='word_1_11' title='bbox 518 3502 1195 3567; x_wconf 81' lang='lat' dir='ltr'>OBSERVATIONIBUS</span> <span class='ocrx_word' id='word_1_12' title='bbox 1236 3500 1800 3568; x_wconf 82' lang='lat' dir='ltr'>RECENTISSIMIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 2262 6292">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 2262 6292">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2262 6292; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 2262 6292; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

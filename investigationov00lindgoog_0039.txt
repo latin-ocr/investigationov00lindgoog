@@ -1,0 +1,60 @@
+31
+
+Epocha long. med. 9 ad ann. 1750 pro merid„ Seebetg· 8ς 13⁰ ς’ ι7,ἰ ¹
+Aphelium ¹750 ........ .· 8 ¹3 33 24‚3
+Nudus ¹750 .......... t 15 22 ne
+Inclinatio orbitae 1800 ······· 7 ο ς,9
+Excentricitas 1800 ........ 0‚2056163
+Semi-axis major ......... 0,3870938
+Motus medius annuus ....... 1s 23⁰ 43' 3‚'613
+Motus medius in too annis Jul.. . . . 2 ¹4 4 35, 64
+Variatio saecularis aphelii ..... -t- 1 33 22‚9
+
+·· Nodi ····· -ι- t to t5‚t
+ι Excantricitatis. · . -t- o,'79t
+·· Inclinationis · . · -t- 18‚' 380
+
+Exhinc habebitur porro, (t. numerus anuonmt ab ¹8⁰⁰ praeterlapsorum)
+
+Aequatio centri 3-(84379‚'23·t-o,'0157t)st⁰tt (a-P)
+·t·(10733‚ 16 -ι- ο, 0039t) sinz (λ-Ρ)
+- (1892, 19 -t- 0, 00082) δίης (λ-Ρ)
+-Ι- (381, 17 -a-0,0002t)sin4(a—1’)
+-·· 82,ς7 sin 5 (λ-Ρ)
+-Ι- 18.72 sium-1²)
+- aas sium-1³>
+-4- 1,04 sinaut-1²)
+
+·- 0,25 sin 9 (a-P)
+
+Radius 've'ctor >
+ἶ ·Ι“ (023952818 ⁶*- 0,000000003 t)
+
+·*· (020783361 -Ι- 0‚000000020 t) cos (λ-Ρ) ·
+
+’· (o‚0079541 ⁴· 0‚000000004 t) cosam-P)
+
+⁸¹·(0,9012126 4· 00000000001 t)cos3(a-1³)
+
+·- 0‚0002191 cos 4 (a-P)
+
+-Ι- 0,0000435 ¹cos 5 (λι-Ρ)
+
+·- 0‚0000092 cos 6 (λι-Ρ)
+
+·t- 0‚0000021 cos 7 (n-F)
+
+-· 0,0000005 cos 8 (a-P)
+sin. latit· belioco “.-“ sin 7⁰ ο1 5‚'9 sin (λ’-Ω) 4- t 0:184 ιω 7⁸ 0' ς”9 sin (λι-Ω)
+tedutt;a,declipticam τ’. -· 771‚'93 siu 2 (x- Ω) ..- 1:43 ,tn 4 (λι- Ω)
+
+Designant λ, λ’ longitudinem heliocentricam mediant et veram in orbita.
+
+Definitis, quae ad motum Mercurii ellipticum spectant, restat adhuc, ut
+de -illius perturbationibus pariodicis agamus. Theoriam Mercurii ab ill. La
+Putn'u (Me'c. ce'l. T. 111. p. 95) constitutam adhibentes, et rite illius aequatio-
+n'es ntlm' Veneris* massa, quam modo indagavimus, computantes, pro veruMer·
+curii longitudine· in orbita hanc nanciscimur expressionem
+
+ 
+
